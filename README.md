@@ -1,6 +1,6 @@
 # Hi 👋, I'm Raymond Chiu
 
-I'm a Fullstack developer focused in frontend development based out of Vancouver
+I'm a Fullstack developer based out of Vancouver
 
 ## Languages and Tools:
 
